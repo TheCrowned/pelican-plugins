@@ -304,6 +304,8 @@ Sitemap                                                           `✔  <https:/
 
 `Slim <./slim>`_                                                                                                                             Render theme template files via Plim, a Python port of Slim, instead of Jinja
 
+Smart Links                                                          `❓ <https://github.com/TheCrowned/pelican-smart-links>`_                   Insert links by specifying keywords instead of URLs.
+
 `Static comments <./static_comments>`_                                                                                                       Allows you to add static comments to an article
 
 `Sub parts <./sub_parts>`_                                                                                                                   Break a very long article in parts, without polluting the timeline with lots of small articles.
