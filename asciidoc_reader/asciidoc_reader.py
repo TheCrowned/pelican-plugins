@@ -41,7 +41,7 @@ def default():
             logger.debug('AsciiDocReader: Using cmd: %s', cmd)
             return cmd
 
-ALLOWED_CMDS = ["asciidoc", "asciidoctor"]
+ALLOWED_CMDS = ["asciidoctor", "asciidoc"]
 
 ENABLED = None != default()
 
